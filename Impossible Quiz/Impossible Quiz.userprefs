@@ -1,0 +1,23 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Moving UI\Question UI Groups\QuestionUIGroup.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Moving UI\Question UI Groups\QuestionUIGroup.cs" Line="26" Column="3" />
+      <File FileName="Assets\Scripts\MenuController.cs" Line="23" Column="1" />
+      <File FileName="Assets\Scripts\Question Types\IQuestionType.cs" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\Question Types\MultipleChoiceQuestionType.cs" Line="31" Column="54" />
+      <File FileName="Assets\Scripts\Question Types\Question Type Object\QuestionTypeObject.cs" Line="15" Column="22" />
+      <File FileName="Assets\Scripts\Question Types\Question Type Object\MultipleChoiceQuestionTypeObject.cs" Line="12" Column="19" />
+      <File FileName="Assets\Scripts\QuestionData.cs" Line="22" Column="18" />
+      <File FileName="Assets\Scripts\Command\CommandButton.cs" Line="52" Column="48" />
+      <File FileName="Assets\Scripts\Moving UI\MovingUI.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\Display Behaviour\NullDisplayBehaviour.cs" Line="17" Column="10" />
+      <File FileName="Assets\Scripts\Command\TrueAnswerCommand.cs" Line="16" Column="29" />
+      <File FileName="Assets\Scripts\Command\FalseAnswerCommand.cs" Line="13" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
